@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "digital-art-concept-art-multiple-canoes-and-boats-traveling-down-a-winding-river-sunset-with-purple-clouds_4rW0thCN_upscaled.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
